@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c1b03d6-e4e1-49e5-abdc-a39d9a4b3c3c" name="Changes" comment="first">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="5c1b03d6-e4e1-49e5-abdc-a39d9a4b3c3c" name="Changes" comment="first" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +43,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -75,7 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1728888131558</updated>
       <workItem from="1728888132436" duration="281000" />
-      <workItem from="1728888433532" duration="1337000" />
+      <workItem from="1728888433532" duration="2236000" />
     </task>
     <task id="LOCAL−00001" summary="first">
       <option name="closed" value="true" />
@@ -91,7 +89,14 @@
       <option name="presentableId" value="LOCAL−00002" />
       <updated>1728889483175</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL−00003" summary="first">
+      <option name="closed" value="true" />
+      <created>1728890112093</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1728890112093</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

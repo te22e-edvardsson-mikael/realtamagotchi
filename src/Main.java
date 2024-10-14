@@ -1,8 +1,10 @@
+import java.util.Random;
 import java.util.Scanner;
+
 
 public class Main {
     public static void main(String[] args) {
-
+        Random random = new Random();
         Scanner scanner = new Scanner(System.in);
         System.out.println("enter your tamagotchi name: ");
         String name = scanner.nextLine();
@@ -34,6 +36,9 @@ public class Main {
                 case 4:
                     System.out.println("goodbye");
                     System.exit(0);
+                case 5:
+                    System.out.println();
+
                 default:
                     System.out.println("invalid choice. Please try again.");
             }
