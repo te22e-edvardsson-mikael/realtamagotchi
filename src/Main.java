@@ -22,8 +22,25 @@ public class Main {
             switch (choice) {
                 case 1:
                     tamagotchi.feed();
+                    break;
+                    case 2:
+                        System.out.println("Enter a word to teach your tamagotchi: ");
+                        String word = scanner.nextLine();
+                        tamagotchi.teach(word);
+                        break;
+                        case 3:
+                            tamagotchi.printstats();
+                            break;
+                case 4:
+                    System.out.println("goodbye");
+                    System.exit(0);
+                default:
+                    System.out.println("invalid choice. Please try again.");
             }
+            tamagotchi.tick();
         }
+
+        System.out.println("Your Tamagotchi has died");
 
 
 

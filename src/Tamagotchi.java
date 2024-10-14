@@ -22,7 +22,7 @@ public class Tamagotchi {
         System.out.println(name+" is less hungry");
     }
 
-  public int teach(String word) {
+  public void teach(String word) {
         words.add(word);
       System.out.println(name+" has learned the word "+word);
       reduceBoredom();
